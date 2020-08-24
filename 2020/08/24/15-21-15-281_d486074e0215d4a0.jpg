@@ -1,0 +1,2846 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<title>技術討論區 | 草榴社區 - t66y.com</title>
+<meta name="keywords" content="草榴,1024,草榴社區,1024app,草榴app,小草app,亞洲無碼,亞洲有碼,歐美無碼,動漫無碼,轉貼交流,技術討論區,達蓋爾的旗幟,新時代的我們,成人文學,在線成人影院,http下載,草榴貼圖,草榴資訊,t66y.com" />
+<meta name="description" content="技術討論區 草榴社區 t66y.com" />
+
+<link rel="stylesheet" href="//www.viidii.info/web/style.css?v=2.0361" type="text/css" charset="UTF-8"/>
+</head><body>
+
+<div id="header">
+<div class="banner" style="padding-left:5px;"><a href="../../../"><FONT SIZE="7" COLOR="white"><B>草榴社區</B></FONT></a></div>
+<div class="h guide" colspan="2">&raquo;
+
+	<!--mb-->您尚未　<a href="login.php">登錄</a> &nbsp;<a href="register.php"><b>註冊</b></a><!--mbend-->
+
+	| <a href="search.php?fid=7">搜索</a> | <a style="cursor:pointer;" id="td_hack" onClick="click_open('menu_hack','td_hack');" onMouseOver="mouseover_open('menu_hack','td_hack');">社區服務</a>
+
+	| <a href="hack.php?H_name=bank">银行</a>
+
+	| <a href="hack.php?H_name=invite">邀请注册</a>
+
+	| <a href="faq.php">幫助</a>
+
+</div>
+<div id="showmenu" style="z-index:100;display:none;"></div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">社區服務</th></tr>
+
+</table></div>
+
+<div id="blank" style="height:10px; clear:both"></div>
+</div>
+<div id="main">
+
+<style>
+h3 a:visited{color:#676767}
+</style>
+<div class="t3" style="margin:8px auto"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td>.:. <a href="index.php">草榴社區</a> &raquo; <a href="thread0806.php?fid=7">技術討論區</a> (<a href="rss.php?fid=7" target="_blank" title="RSS訂閱本版面最新帖子">RSS</a>)</td></tr>
+</table></div>
+
+<!--ads begin-->
+
+<!--ads end-->
+
+<div class="t"><table cellspacing="0" cellpadding="0" align="center">
+	<tr><td class="h"><b>版塊公告</b></td>
+	</tr>
+	<tr></tr>
+	<tr class="tr2"><td style="border-bottom:0"></td></tr>
+	<tbody id="cate_thread" style="">
+	<tr class="tr1">
+		<th class="t_one"> 发帖前请仔细阅读置顶版规&nbsp;<span class="smalltxt">(lj413025: 2009-07-25 20:11)</span> <br /><br /><b><font size="4"><span style="color:red">新手上路发主题贴威望最低10！<span style="color:darkblue">发帖前请仔细阅读置顶版规,技术论坛区发贴，回贴，意味着你将接受论坛规定和约束，发布广告贴、微信公号、微博号、二维码、QQ号、群号、邮箱及触犯版规的，管理员有权在不通知的情况下删贴、扣分直接禁言。</span></font></b>
+		<div align="right"><a href="notice.php?fid=7#38">更多公告..</a></div></th>
+	</tr>
+</table></div>
+
+<table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td align="left" valign="middle"><div class="pages"><a href="javascript:#" class="gray">＜</a><a href="javascript:#" class="gray">上一頁</a><a><U>1</U></a><a href="thread0806.php?fid=7&amp;search=&amp;page=2">2</a><a href="thread0806.php?fid=7&amp;search=&amp;page=3">3</a><a href="thread0806.php?fid=7&amp;search=&amp;page=4">4</a><a class='w70'><input type="text" style="width:50px;" value="1/267" onfocus="this.value='';" onblur="this.value='1/267'" onkeydown="javascript: if(event.keyCode==13){ location='thread0806.php?fid=7&amp;search=&amp;page='+this.value;return false;}"></a><a href="thread0806.php?fid=7&amp;search=&amp;page=2">下一頁</a><a href="thread0806.php?fid=7&amp;search=&amp;page=267" id="last">＞</a></div></td><td style="text-align:right"><div class="pages"><a href="post.php?fid=7" id="last"> 發布主題</a></div>
+
+</td>
+	</tr>
+</table>
+<div class="t" style="margin:3px auto"><table cellspacing="0" cellpadding="0" width="100%" id="ajaxtable">
+	
+	<tr><th class="h" colspan="5" style="width:100%">
+		<div class="fr">
+
+			<a class="a2 fn" href="thread0806.php?fid=7&search=digest">精華主題</a> <a class="a2 fn" href="thread0806.php?fid=7&search=today">今日主題</a> <a class="a2 fn" href="thread0806.php?fid=7">所有主題</a>
+
+		</div>
+		<a href="thread0806.php?fid=7">技術討論區</a><span>　版主:
+
+		&nbsp;<a href=profile.php?action=show&username=valen>valen</a> <a href=profile.php?action=show&username=brent>brent</a> <a href=profile.php?action=show&username=Diss>Diss</a> <a href=profile.php?action=show&username=966>966</a> <a href=profile.php?action=show&username=Sphinx>Sphinx</a> <a href=profile.php?action=show&username=Martyr>Martyr</a> <a href=profile.php?action=show&username=carrot>carrot</a> 
+
+		</span></th>
+	</tr>
+	<tbody style="table-layout:fixed;"><tr></tr>
+	<tr class="tr2 tac">
+	<td>贊</td>
+	<td style="width:62%">文章</td>
+	<td style="width:10%">作者</td>
+	<td style="width:6%">回復</td>
+	<td style="width:17%">最後發表</td>
+	</tr>
+
+	<tr align="middle" class="tr3 t_one tac"><td>***</td><th class="tal">&nbsp論壇公告: <h3><a href="notice.php?fid=-1#1" class="black">■■■ 來訪者必看的內容 - 使你更快速上手 &lt;隨時更新&gt; ■■■</a></h3></th><td><a href="profile.php?action=show&username=administrator" class="bl">administrator</a></td><td colspan="2"><a href="notice.php?fid=-1">論壇公告</a></td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>144</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+		↑3
+
+	
+
+	<h3><a href="read.php?tid=5877" target="_blank" id=""><b><font color=red>草榴官方客戶端 & 大陸入口 & 永久域名 ** 必須加入收藏夾 9.13更新</font></b></a></h3>   
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=5877&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=5877&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=5877&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=5877&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=5877&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=5877&page=298&fpage=1' target='_blank'>298</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=62" class="bl">vonder</a><div class="f12">2006-12-17</div></td>
+	<td>
+
+	7428
+
+	</td>
+	<td><a href="read.php?tid=5877&page=e&fpage=1#a" class="f10"> 2020-08-24 16:12 </a><br />by: 创造郭彦宏</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>59</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+		↑1
+
+	
+
+	<h3><a href="htm_data/2007/7/4032088.html" target="_blank" id=""><font color=green>[8月]&#160; 求片求助貼</font></a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4032088&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4032088&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4032088&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4032088&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4032088&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4032088&page=40&fpage=1' target='_blank'>40</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=65742" class="bl">Diss</a><div class="f12">2020-08-01</div></td>
+	<td>
+
+	3242
+
+	</td>
+	<td><a href="read.php?tid=4032088&page=e&fpage=1#a" class="f10"> 2020-08-24 23:19 </a><br />by: xpzx</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+		↑1
+
+	
+
+	<h3><a href="htm_data/2005/7/2520305.html" target="_blank" id=""><b><font color=blue>高速免费 无需注册&#160;不限流量不限速 兼容各系统平台 图文演示科学上网代理教学</font></b></a></h3>   
+
+	<span class="sred">[精]</span>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=2520305&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=2520305&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=2520305&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=2520305&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=2520305&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=2520305&page=31&fpage=1' target='_blank'>31</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=435117" class="bl">那年明月</a><div class="f12">2020-05-05</div></td>
+	<td>
+
+	766
+
+	</td>
+	<td><a href="read.php?tid=2520305&page=e&fpage=1#a" class="f10"> 2020-07-04 08:40 </a><br />by: baiyu</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+		↑1
+
+	
+
+	<h3><a href="htm_data/2005/7/2404767.html" target="_blank" id=""><b><font color=blue>[20190103更新] 利用Cydia Impactor工具免越狱安装iOS小草客户端，WIN MAC LINUX通用。转动态页面可见更新</font></b></a></h3>   
+
+	<span class="sred">[精]</span>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=2404767&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=2404767&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=2404767&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=2404767&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=2404767&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=2404767&page=17&fpage=1' target='_blank'>17</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=408861" class="bl">痴儿</a><div class="f12">2020-05-05</div></td>
+	<td>
+
+	403
+
+	</td>
+	<td><a href="read.php?tid=2404767&page=e&fpage=1#a" class="f10"> 2020-07-03 19:49 </a><br />by: yy01478520</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>13</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+		↑1
+
+	
+
+	<h3><a href="htm_data/2003/7/3832698.html" target="_blank" id=""><font color=blue>論壇工單系統申請須知</font></a></h3>   
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=3832698&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=3832698&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=3832698&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=3832698&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=3832698&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=3832698&page=11&fpage=1' target='_blank'>11</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=69760" class="bl">valen</a><div class="f12">2020-03-02</div></td>
+	<td>
+
+	267
+
+	</td>
+	<td><a href="read.php?tid=3832698&page=e&fpage=1#a" class="f10"> 2020-04-29 09:12 </a><br />by: corlorfulday</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+		↑1
+
+	
+
+	<h3><a href="htm_data/1602/7/37458.html" target="_blank" id=""><b><font color=blue>技術討論區 版規 & 各種問題匯總,比如下種子,積分升級公式等等(16-02-21更新)</font></b></a></h3>   
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=37458&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=37458&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=37458&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=37458&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=37458&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=37458&page=23&fpage=1' target='_blank'>23</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=62" class="bl">vonder</a><div class="f12">2016-02-21</div></td>
+	<td>
+
+	555
+
+	</td>
+	<td><a href="read.php?tid=37458&page=e&fpage=1#a" class="f10"> 2016-12-22 09:39 </a><br />by: 马桶烫脚</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+		↑1
+
+	
+
+	<h3><a href="htm_data/1502/7/1331010.html" target="_blank" id=""><b><font color=red>論壇資訊：請各位會員留意並小心假冒草榴釣魚網站</font></b></a></h3>   
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=1331010&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=1331010&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=1331010&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=1331010&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=1331010&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=1331010&page=33&fpage=1' target='_blank'>33</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=69760" class="bl">valen</a><div class="f12">2015-02-11</div></td>
+	<td>
+
+	813
+
+	</td>
+	<td><a href="read.php?tid=1331010&page=e&fpage=1#a" class="f10"> 2015-04-11 13:17 </a><br />by: 635559237</td>
+	</tr>
+
+	<tr class="tr2"><td colspan="6" class="tac" style="border-top:0">普通主題</td></tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064067.html" target="_blank" id="">[一纳20200824]为当吃播，3岁女孩被喂到70斤；福利邀请码发放中····</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=266649" class="bl">一纳</a><div class="f12"><span class="s3" title="2 小時前 - 2020-08-24">今天 21:10</span></div></td>
+	<td>
+
+	17
+
+	</td>
+	<td><a href="read.php?tid=4064067&page=e&fpage=1#a" class="f10"> 2020-08-24 23:20 </a><br />by: 飞矢不动</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>10</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064065.html" target="_blank" id="">关于最近经历的2次核酸检测</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4064065&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4064065&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=137281" class="bl">Langrisser</a><div class="f12"><span class="s3" title="1 小時前 - 2020-08-24">今天 21:25</span></div></td>
+	<td>
+
+	39
+
+	</td>
+	<td><a href="read.php?tid=4064065&page=e&fpage=1#a" class="f10"> 2020-08-24 23:20 </a><br />by: somnus</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>6</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062483.html" target="_blank" id="">[漫说]日本动作片为什么有FBI警告？</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062483&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062483&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062483&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=295474" class="bl">蛟龙</a><div class="f12">昨天 18:20</div></td>
+	<td>
+
+	53
+
+	</td>
+	<td><a href="read.php?tid=4062483&page=e&fpage=1#a" class="f10"> 2020-08-24 23:20 </a><br />by: 苏州善解人衣</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>11</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064025.html" target="_blank" id="">鱼眼观察｜为了罚款，真是拼了</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=164266" class="bl">blackdream</a><div class="f12"><span class="s3" title="2 小時前 - 2020-08-24">今天 20:34</span></div></td>
+	<td>
+
+	21
+
+	</td>
+	<td><a href="read.php?tid=4064025&page=e&fpage=1#a" class="f10"> 2020-08-24 23:20 </a><br />by: 傲世天剑</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>29</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063814.html" target="_blank" id="">兽财局｜今年，实业家的心态真的崩溃了</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063814&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063814&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063814&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=84173" class="bl">ygyg163</a><div class="f12"><span class="s3" title="5 小時前 - 2020-08-24">今天 18:01</span></div></td>
+	<td>
+
+	71
+
+	</td>
+	<td><a href="read.php?tid=4063814&page=e&fpage=1#a" class="f10"> 2020-08-24 23:20 </a><br />by: 茶言观色</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064118.html" target="_blank" id="">机械工程师必备知识！</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=445880" class="bl">霜十一</a><div class="f12"><span class="s3" title="33 分鐘前 - 2020-08-24">今天 22:47</span></div></td>
+	<td>
+
+	7
+
+	</td>
+	<td><a href="read.php?tid=4064118&page=e&fpage=1#a" class="f10"> 2020-08-24 23:20 </a><br />by: 东床快去</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>24</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4061968.html" target="_blank" id="">一个人怼了一电梯人爬楼有感</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4061968&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4061968&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4061968&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4061968&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4061968&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4061968&page=9&fpage=1' target='_blank'>9</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=281619" class="bl">破殇</a><div class="f12">昨天 11:02</div></td>
+	<td>
+
+	295
+
+	</td>
+	<td><a href="read.php?tid=4061968&page=e&fpage=1#a" class="f10"> 2020-08-24 23:20 </a><br />by: 破殇</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>49</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063145.html" target="_blank" id="">中国的人权状况只有中国人民最有发言权，让暴风雨来得更猛烈些吧</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063145&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063145&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063145&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=456464" class="bl">网不了你</a><div class="f12"><span class="s3" title="13 小時前 - 2020-08-24">今天 09:26</span></div></td>
+	<td>
+
+	92
+
+	</td>
+	<td><a href="read.php?tid=4063145&page=e&fpage=1#a" class="f10"> 2020-08-24 23:20 </a><br />by: 齐白</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>49</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062685.html" target="_blank" id="">外汇储备净额跌破1万亿美元</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062685&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062685&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062685&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4062685&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4062685&page=5&fpage=1' target='_blank'>5</a> <a href='read.php?tid=4062685&page=6&fpage=1' target='_blank'>6</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=559253" class="bl">大道之行</a><div class="f12">昨天 21:44</div></td>
+	<td>
+
+	167
+
+	</td>
+	<td><a href="read.php?tid=4062685&page=e&fpage=1#a" class="f10"> 2020-08-24 23:19 </a><br />by: 小小萌新</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063681.html" target="_blank" id="">[博海拾贝0811]我这船可是出名的快</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063681&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063681&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=543074" class="bl">节奏小哥</a><div class="f12"><span class="s3" title="7 小時前 - 2020-08-24">今天 16:12</span></div></td>
+	<td>
+
+	35
+
+	</td>
+	<td><a href="read.php?tid=4063681&page=e&fpage=1#a" class="f10"> 2020-08-24 23:19 </a><br />by: woshijieke</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>72</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4044231.html" target="_blank" id="">今天去看样板房，想起了高中天天鞭笞我背公式的男朋友</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4044231&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4044231&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4044231&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4044231&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4044231&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4044231&page=12&fpage=1' target='_blank'>12</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=555851" class="bl">大陈陈</a><div class="f12">2020-08-10</div></td>
+	<td>
+
+	320
+
+	</td>
+	<td><a href="read.php?tid=4044231&page=e&fpage=1#a" class="f10"> 2020-08-24 23:19 </a><br />by: 不良绅士</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>27</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063874.html" target="_blank" id="">[图说]&nbsp; &nbsp;  这静悄悄的果园，死寂又甜美&nbsp;  （08.24）</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063874&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063874&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063874&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063874&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4063874&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=112203" class="bl">圖說</a><div class="f12"><span class="s3" title="4 小時前 - 2020-08-24">今天 18:56</span></div></td>
+	<td>
+
+	103
+
+	</td>
+	<td><a href="read.php?tid=4063874&page=e&fpage=1#a" class="f10"> 2020-08-24 23:19 </a><br />by: 贝贝</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>7</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064091.html" target="_blank" id="">[科技前沿] 5G功耗严重，应用匮乏，它到底算不算先进技术？</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=556028" class="bl">晨露初浓</a><div class="f12"><span class="s3" title="1 小時前 - 2020-08-24">今天 21:31</span></div></td>
+	<td>
+
+	25
+
+	</td>
+	<td><a href="read.php?tid=4064091&page=e&fpage=1#a" class="f10"> 2020-08-24 23:19 </a><br />by: 你好骚啊</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063688.html" target="_blank" id="">[皇会来了-历史]二战中最恨日本的国家，屠杀17万日本战俘，指名要处决日本天皇[8P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=553735" class="bl">皇会老男人</a><div class="f12"><span class="s3" title="7 小時前 - 2020-08-24">今天 16:20</span></div></td>
+	<td>
+
+	11
+
+	</td>
+	<td><a href="read.php?tid=4063688&page=e&fpage=1#a" class="f10"> 2020-08-24 23:19 </a><br />by: 沐恩777</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>16</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063743.html" target="_blank" id="">[原创]奶扎日记之分手后的真爱</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063743&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063743&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063743&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063743&page=4&fpage=1' target='_blank'>4</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=551053" class="bl">花椒大料</a><div class="f12"><span class="s3" title="6 小時前 - 2020-08-24">今天 16:57</span></div></td>
+	<td>
+
+	140
+
+	</td>
+	<td><a href="read.php?tid=4063743&page=e&fpage=1#a" class="f10"> 2020-08-24 23:19 </a><br />by: somnus</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063344.html" target="_blank" id="">[转载]啪啪啪引发的头痛是咋回事？</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063344&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063344&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=311081" class="bl">一个人的背包</a><div class="f12"><span class="s3" title="11 小時前 - 2020-08-24">今天 12:06</span></div></td>
+	<td>
+
+	26
+
+	</td>
+	<td><a href="read.php?tid=4063344&page=e&fpage=1#a" class="f10"> 2020-08-24 23:19 </a><br />by: 花儿与骚年</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>48</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062302.html" target="_blank" id="">[逗妇分享]极品小穴竟然长出小舌头，此乃奇迹[21P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062302&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062302&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062302&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4062302&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4062302&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4062302&page=12&fpage=1' target='_blank'>12</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=553465" class="bl">有风度地逗妇</a><div class="f12">昨天 15:24</div></td>
+	<td>
+
+	306
+
+	</td>
+	<td><a href="read.php?tid=4062302&page=e&fpage=1#a" class="f10"> 2020-08-24 23:18 </a><br />by: 隆冬将至</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>48</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4045324.html" target="_blank" id="">纯天然骚骨！年仅１９岁少女《Irina Shugova》姿势表情简直满分！</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4045324&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4045324&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4045324&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4045324&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4045324&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4045324&page=10&fpage=1' target='_blank'>10</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=304592" class="bl">小三和弦</a><div class="f12">2020-08-10</div></td>
+	<td>
+
+	229
+
+	</td>
+	<td><a href="read.php?tid=4045324&page=e&fpage=1#a" class="f10"> 2020-08-24 23:18 </a><br />by: 苏州善解人衣</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>268</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2006/7/3986163.html" target="_blank" id="">生活性趣，不谈伦理，只为舒服，只为温存 [多图]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=3986163&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=3986163&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=3986163&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=3986163&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=3986163&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=3986163&page=24&fpage=1' target='_blank'>24</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=422302" class="bl">风流的贞操</a><div class="f12">2020-06-27</div></td>
+	<td>
+
+	<span class="sred">610</span>
+
+	</td>
+	<td><a href="read.php?tid=3986163&page=e&fpage=1#a" class="f10"> 2020-08-24 23:17 </a><br />by: 苏州善解人衣</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>37</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062797.html" target="_blank" id="">技师的暗示</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062797&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062797&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062797&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4062797&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4062797&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4062797&page=13&fpage=1' target='_blank'>13</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=491873" class="bl">lovefootjob</a><div class="f12"><span class="s3" title="23 小時前 - 2020-08-24">今天 00:01</span></div></td>
+	<td>
+
+	337
+
+	</td>
+	<td><a href="read.php?tid=4062797&page=e&fpage=1#a" class="f10"> 2020-08-24 23:17 </a><br />by: 成长的烦恼</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>14</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062305.html" target="_blank" id="">[流金岁月] 倩女幽魂往事：永远无法拍出的续集</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062305&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062305&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062305&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4062305&page=4&fpage=1' target='_blank'>4</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=557170" class="bl">一杯长岛冰茶</a><div class="f12">昨天 15:25</div></td>
+	<td>
+
+	103
+
+	</td>
+	<td><a href="read.php?tid=4062305&page=e&fpage=1#a" class="f10"> 2020-08-24 23:17 </a><br />by: 不良绅士</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>35</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4061893.html" target="_blank" id="">[烟雨盘藏]分享评价很高的AV影片（四）（附车牌）</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4061893&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4061893&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4061893&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4061893&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4061893&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=558713" class="bl">阪神烟雨</a><div class="f12">昨天 10:20</div></td>
+	<td>
+
+	121
+
+	</td>
+	<td><a href="read.php?tid=4061893&page=e&fpage=1#a" class="f10"> 2020-08-24 23:17 </a><br />by: 除膜喂道</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063876.html" target="_blank" id="">[污托邦&nbsp; 图说]眼黑心盲，嘴会喷，谁喷谁高兴[20P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=295474" class="bl">蛟龙</a><div class="f12"><span class="s3" title="4 小時前 - 2020-08-24">今天 19:00</span></div></td>
+	<td>
+
+	17
+
+	</td>
+	<td><a href="read.php?tid=4063876&page=e&fpage=1#a" class="f10"> 2020-08-24 23:17 </a><br />by: missmuyue</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>43</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063019.html" target="_blank" id="">这些瑜伽体式，让啪啪啪涨姿势！</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063019&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063019&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063019&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063019&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4063019&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4063019&page=9&fpage=1' target='_blank'>9</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=559201" class="bl">天目</a><div class="f12"><span class="s3" title="19 小時前 - 2020-08-24">今天 04:12</span></div></td>
+	<td>
+
+	220
+
+	</td>
+	<td><a href="read.php?tid=4063019&page=e&fpage=1#a" class="f10"> 2020-08-24 23:16 </a><br />by: manutd620</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>6</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063470.html" target="_blank" id="">[搞笑动图]终于知道为什么网上这么多,前凸后翘的美女了</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063470&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063470&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=553600" class="bl">世间始终你好</a><div class="f12"><span class="s3" title="9 小時前 - 2020-08-24">今天 13:55</span></div></td>
+	<td>
+
+	36
+
+	</td>
+	<td><a href="read.php?tid=4063470&page=e&fpage=1#a" class="f10"> 2020-08-24 23:16 </a><br />by: 悲剧的老湿</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>10</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063577.html" target="_blank" id="">青年图摘0811！有情饮水饱</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063577&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063577&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=378361" class="bl">带着欲望活着</a><div class="f12"><span class="s3" title="7 小時前 - 2020-08-24">今天 15:49</span></div></td>
+	<td>
+
+	36
+
+	</td>
+	<td><a href="read.php?tid=4063577&page=e&fpage=1#a" class="f10"> 2020-08-24 23:16 </a><br />by: missmuyue</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>6</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063496.html" target="_blank" id="">每日榴乐0824</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=275048" class="bl">親愛</a><div class="f12"><span class="s3" title="8 小時前 - 2020-08-24">今天 14:35</span></div></td>
+	<td>
+
+	22
+
+	</td>
+	<td><a href="read.php?tid=4063496&page=e&fpage=1#a" class="f10"> 2020-08-24 23:15 </a><br />by: 篮球猪</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063811.html" target="_blank" id="">[岳读]对社畜最友好的城市，我们找到了</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=541504" class="bl">張震嶽</a><div class="f12"><span class="s3" title="5 小時前 - 2020-08-24">今天 17:55</span></div></td>
+	<td>
+
+	17
+
+	</td>
+	<td><a href="read.php?tid=4063811&page=e&fpage=1#a" class="f10"> 2020-08-24 23:15 </a><br />by: 嘿嘿你一下</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063178.html" target="_blank" id="">逼乎日报078</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=542892" class="bl">只看胸</a><div class="f12"><span class="s3" title="13 小時前 - 2020-08-24">今天 09:52</span></div></td>
+	<td>
+
+	13
+
+	</td>
+	<td><a href="read.php?tid=4063178&page=e&fpage=1#a" class="f10"> 2020-08-24 23:15 </a><br />by: 苏州善解人衣</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064150.html" target="_blank" id="">小龙虾的4000亿大生意</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=557170" class="bl">一杯长岛冰茶</a><div class="f12"><span class="s3" title="5 分鐘前 - 2020-08-24">今天 23:15</span></div></td>
+	<td>
+
+	0
+
+	</td>
+	<td><a href="read.php?tid=4064150&page=e&fpage=1#a" class="f10"> 2020-08-24 23:15 </a><br />by: 一杯长岛冰茶</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>74</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4061511.html" target="_blank" id="">内射的动图 [29P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4061511&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4061511&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4061511&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4061511&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4061511&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4061511&page=12&fpage=1' target='_blank'>12</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=550589" class="bl">Ricao</a><div class="f12">2020-08-22</div></td>
+	<td>
+
+	288
+
+	</td>
+	<td><a href="read.php?tid=4061511&page=e&fpage=1#a" class="f10"> 2020-08-24 23:15 </a><br />by: hfl1002</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>8</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063583.html" target="_blank" id="">青年图摘0812！</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=378361" class="bl">带着欲望活着</a><div class="f12"><span class="s3" title="7 小時前 - 2020-08-24">今天 15:54</span></div></td>
+	<td>
+
+	22
+
+	</td>
+	<td><a href="read.php?tid=4063583&page=e&fpage=1#a" class="f10"> 2020-08-24 23:15 </a><br />by: 今天比较繁</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064007.html" target="_blank" id="">酒后“半推半就”发生性行为，是否属于强奸？</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=553965" class="bl">独侠客</a><div class="f12"><span class="s3" title="3 小時前 - 2020-08-24">今天 20:12</span></div></td>
+	<td>
+
+	13
+
+	</td>
+	<td><a href="read.php?tid=4064007&page=e&fpage=1#a" class="f10"> 2020-08-24 23:15 </a><br />by: 爱在深丘</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>11</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4060683.html" target="_blank" id="">有片段显示侍应趁纳瓦尔尼助手离座时送上第二杯饮料; 杨洁篪抵达釜山访问 或商习近平访韩安排</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4060683&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4060683&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4060683&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4060683&page=4&fpage=1' target='_blank'>4</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=539678" class="bl">夏日阳光</a><div class="f12">2020-08-22</div></td>
+	<td>
+
+	84
+
+	</td>
+	<td><a href="read.php?tid=4060683&page=e&fpage=1#a" class="f10"> 2020-08-24 23:15 </a><br />by: 不良绅士</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064071.html" target="_blank" id="">[開心一笑]我有傲人的胸，你有迷人的腿！</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=482665" class="bl">申猴</a><div class="f12"><span class="s3" title="2 小時前 - 2020-08-24">今天 21:14</span></div></td>
+	<td>
+
+	5
+
+	</td>
+	<td><a href="read.php?tid=4064071&page=e&fpage=1#a" class="f10"> 2020-08-24 23:14 </a><br />by: 大圣娶妻</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064111.html" target="_blank" id="">[转载]99%的人不知道，用力按压硬盘就能提升 几十MB/s 读写速度</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=540132" class="bl">云中雀</a><div class="f12"><span class="s3" title="1 小時前 - 2020-08-24">今天 21:53</span></div></td>
+	<td>
+
+	18
+
+	</td>
+	<td><a href="read.php?tid=4064111&page=e&fpage=1#a" class="f10"> 2020-08-24 23:14 </a><br />by: Dream静</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>90</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4047802.html" target="_blank" id="">公司集体旅游和女同事的性爱经历</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4047802&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4047802&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4047802&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4047802&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4047802&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4047802&page=18&fpage=1' target='_blank'>18</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=551345" class="bl">情在哈尔滨</a><div class="f12">2020-08-12</div></td>
+	<td>
+
+	449
+
+	</td>
+	<td><a href="read.php?tid=4047802&page=e&fpage=1#a" class="f10"> 2020-08-24 23:14 </a><br />by: 夏之風</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063893.html" target="_blank" id="">[图财经] 风控再升级！基金本月启动侧袋机制&#160; [6P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=557170" class="bl">一杯长岛冰茶</a><div class="f12"><span class="s3" title="4 小時前 - 2020-08-24">今天 19:05</span></div></td>
+	<td>
+
+	12
+
+	</td>
+	<td><a href="read.php?tid=4063893&page=e&fpage=1#a" class="f10"> 2020-08-24 23:14 </a><br />by: 昊凯非凡</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>165</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062481.html" target="_blank" id="">[已换图床][疫情终结贴]人前如淑女，床上如荡妇[20P+1P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062481&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062481&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062481&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4062481&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4062481&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4062481&page=16&fpage=1' target='_blank'>16</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=483171" class="bl">豆芽高手</a><div class="f12">昨天 18:17</div></td>
+	<td>
+
+	399
+
+	</td>
+	<td><a href="read.php?tid=4062481&page=e&fpage=1#a" class="f10"> 2020-08-24 23:14 </a><br />by: 阿乌</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4061742.html" target="_blank" id="">[默转历史]&nbsp; 吐谷浑古国</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=525231" class="bl">罗默</a><div class="f12">昨天 06:43</div></td>
+	<td>
+
+	20
+
+	</td>
+	<td><a href="read.php?tid=4061742&page=e&fpage=1#a" class="f10"> 2020-08-24 23:13 </a><br />by: 解他衬衣</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>23</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062144.html" target="_blank" id="">那些年的女人 附同城老哥刚调教不到20岁的学生&#160; 下一篇和表妹的一些暧昧趣事11P</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062144&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062144&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062144&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4062144&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4062144&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4062144&page=9&fpage=1' target='_blank'>9</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=559842" class="bl">宁123321</a><div class="f12">昨天 15:30</div></td>
+	<td>
+
+	218
+
+	</td>
+	<td><a href="read.php?tid=4062144&page=e&fpage=1#a" class="f10"> 2020-08-24 23:13 </a><br />by: lee1234</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063982.html" target="_blank" id="">[书荷电影]&nbsp; 尺度大得不像国产剧，这要是放现在，铁定骂上热搜！</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=527012" class="bl">香颂岸</a><div class="f12"><span class="s3" title="3 小時前 - 2020-08-24">今天 19:55</span></div></td>
+	<td>
+
+	7
+
+	</td>
+	<td><a href="read.php?tid=4063982&page=e&fpage=1#a" class="f10"> 2020-08-24 23:12 </a><br />by: 金银童</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>9</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063851.html" target="_blank" id="">电影八佰的一大惊天败笔</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063851&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063851&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=456464" class="bl">网不了你</a><div class="f12"><span class="s3" title="4 小時前 - 2020-08-24">今天 18:42</span></div></td>
+	<td>
+
+	56
+
+	</td>
+	<td><a href="read.php?tid=4063851&page=e&fpage=1#a" class="f10"> 2020-08-24 23:12 </a><br />by: 刘能</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>14</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4061658.html" target="_blank" id="">[一夜精品] 八月第十二季 精品收藏 温暖的晨光让爆乳小骚发浪求操+购买性爱时间停止器任意玩弄爆乳蜂腰美女精液射满她</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4061658&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4061658&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4061658&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4061658&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4061658&page=5&fpage=1' target='_blank'>5</a> <a href='read.php?tid=4061658&page=6&fpage=1' target='_blank'>6</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=269587" class="bl">一夜抱妇</a><div class="f12">昨天 00:34</div></td>
+	<td>
+
+	147
+
+	</td>
+	<td><a href="read.php?tid=4061658&page=e&fpage=1#a" class="f10"> 2020-08-24 23:12 </a><br />by: 持枪射夕阳</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4036331.html" target="_blank" id="">[乙图]美国加州又起山火，近8000名居民逃离家园，现场犹如火山爆发</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4036331&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4036331&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4036331&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=476592" class="bl">美国西部荒野</a><div class="f12">2020-08-04</div></td>
+	<td>
+
+	62
+
+	</td>
+	<td><a href="read.php?tid=4036331&page=e&fpage=1#a" class="f10"> 2020-08-24 23:12 </a><br />by: franklin66</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063824.html" target="_blank" id="">iPhone12售价曝光 最低699美元[13P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063824&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063824&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063824&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=292739" class="bl">流利</a><div class="f12"><span class="s3" title="5 小時前 - 2020-08-24">今天 18:08</span></div></td>
+	<td>
+
+	73
+
+	</td>
+	<td><a href="read.php?tid=4063824&page=e&fpage=1#a" class="f10"> 2020-08-24 23:11 </a><br />by: 烽火土狼</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064086.html" target="_blank" id="">[微阅读]真诚幻觉[10P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=439364" class="bl">猪猪你不爱</a><div class="f12"><span class="s3" title="1 小時前 - 2020-08-24">今天 21:25</span></div></td>
+	<td>
+
+	6
+
+	</td>
+	<td><a href="read.php?tid=4064086&page=e&fpage=1#a" class="f10"> 2020-08-24 23:11 </a><br />by: 大圣娶妻</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063157.html" target="_blank" id="">[每日一wen0824]“骚”一个眼神就够了[53P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063157&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063157&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063157&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=370133" class="bl">每日一wen</a><div class="f12"><span class="s3" title="13 小時前 - 2020-08-24">今天 09:32</span></div></td>
+	<td>
+
+	68
+
+	</td>
+	<td><a href="read.php?tid=4063157&page=e&fpage=1#a" class="f10"> 2020-08-24 23:11 </a><br />by: 男在南方</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4061956.html" target="_blank" id="">[虎嗅新闻20200823]京东封杀申通，是公平竞争还是平台霸权？</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4061956&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4061956&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4061956&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4061956&page=4&fpage=1' target='_blank'>4</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=535039" class="bl">午马七郎</a><div class="f12">昨天 10:52</div></td>
+	<td>
+
+	81
+
+	</td>
+	<td><a href="read.php?tid=4061956&page=e&fpage=1#a" class="f10"> 2020-08-24 23:11 </a><br />by: 客从何来</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063560.html" target="_blank" id="">极品身材美乳美少女[七瀬アリス]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=552180" class="bl">GIF动图</a><div class="f12"><span class="s3" title="7 小時前 - 2020-08-24">今天 15:31</span></div></td>
+	<td>
+
+	15
+
+	</td>
+	<td><a href="read.php?tid=4063560&page=e&fpage=1#a" class="f10"> 2020-08-24 23:11 </a><br />by: 睡神0203</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>6</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063183.html" target="_blank" id="">[每日要闻] 23岁学生与老师出游时溺亡，校方：涉事老师事发前一天已被辞退</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063183&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063183&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063183&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=553955" class="bl">老衲阴部微痒</a><div class="f12"><span class="s3" title="13 小時前 - 2020-08-24">今天 10:02</span></div></td>
+	<td>
+
+	60
+
+	</td>
+	<td><a href="read.php?tid=4063183&page=e&fpage=1#a" class="f10"> 2020-08-24 23:11 </a><br />by: WURUHUA一日</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062822.html" target="_blank" id="">[開心一笑]娶老婆当明星玩DJ,日本和尚凭啥这么爽?</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062822&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062822&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=482665" class="bl">申猴</a><div class="f12"><span class="s3" title="23 小時前 - 2020-08-23">昨天 23:55</span></div></td>
+	<td>
+
+	27
+
+	</td>
+	<td><a href="read.php?tid=4062822&page=e&fpage=1#a" class="f10"> 2020-08-24 23:10 </a><br />by: 一十二</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064129.html" target="_blank" id="">[历史杂谈]前半生诗圣杜甫，后半生少陵野老[4P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=555759" class="bl">南朝一笑</a><div class="f12"><span class="s3" title="39 分鐘前 - 2020-08-24">今天 22:41</span></div></td>
+	<td>
+
+	3
+
+	</td>
+	<td><a href="read.php?tid=4064129&page=e&fpage=1#a" class="f10"> 2020-08-24 23:10 </a><br />by: manutd620</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>27</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063168.html" target="_blank" id="">数学大师丘成桐：中国的科技至少要倒退20年</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063168&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063168&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063168&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063168&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4063168&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=559601" class="bl">古井贡酒</a><div class="f12"><span class="s3" title="13 小時前 - 2020-08-24">今天 09:42</span></div></td>
+	<td>
+
+	108
+
+	</td>
+	<td><a href="read.php?tid=4063168&page=e&fpage=1#a" class="f10"> 2020-08-24 23:10 </a><br />by: 江南骑士</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>8</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4059690.html" target="_blank" id="">[地方志]忽然，想去西宁了。</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4059690&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4059690&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4059690&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=280579" class="bl">赵奕欢</a><div class="f12">2020-08-21</div></td>
+	<td>
+
+	71
+
+	</td>
+	<td><a href="read.php?tid=4059690&page=e&fpage=1#a" class="f10"> 2020-08-24 23:10 </a><br />by: yuhaotian</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062222.html" target="_blank" id="">市川まさみ(市川雅美)，回來工作了期待新作！</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062222&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062222&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=525199" class="bl">骑摩托的蜗牛</a><div class="f12">昨天 15:02</div></td>
+	<td>
+
+	26
+
+	</td>
+	<td><a href="read.php?tid=4062222&page=e&fpage=1#a" class="f10"> 2020-08-24 23:10 </a><br />by: somnus</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>42</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4061859.html" target="_blank" id="">自己写的妹子图爬虫程序，分享给大家使用</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4061859&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4061859&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4061859&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4061859&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4061859&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4061859&page=10&fpage=1' target='_blank'>10</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=552657" class="bl">你那么骚啊</a><div class="f12">昨天 10:42</div></td>
+	<td>
+
+	246
+
+	</td>
+	<td><a href="read.php?tid=4061859&page=e&fpage=1#a" class="f10"> 2020-08-24 23:10 </a><br />by: 动车痴汉</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064090.html" target="_blank" id="">巨波版的弥海砂！美少女佐野日向子露出浑圆肉球再现成熟魅力[27P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=551262" class="bl">八个八</a><div class="f12"><span class="s3" title="1 小時前 - 2020-08-24">今天 21:31</span></div></td>
+	<td>
+
+	10
+
+	</td>
+	<td><a href="read.php?tid=4064090&page=e&fpage=1#a" class="f10"> 2020-08-24 23:09 </a><br />by: 百万基佬</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>9</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4044044.html" target="_blank" id="">[榴食天下]中国十大美食排行榜</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4044044&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4044044&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4044044&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4044044&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4044044&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=579" class="bl">crazyboom</a><div class="f12">2020-08-10</div></td>
+	<td>
+
+	108
+
+	</td>
+	<td><a href="read.php?tid=4044044&page=e&fpage=1#a" class="f10"> 2020-08-24 23:09 </a><br />by: somnus</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>18</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4061771.html" target="_blank" id="">纪念第一次3p .完 （哪位大神教我发图片）</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4061771&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4061771&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4061771&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4061771&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4061771&page=5&fpage=1' target='_blank'>5</a> <a href='read.php?tid=4061771&page=6&fpage=1' target='_blank'>6</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=401454" class="bl">我有男朋友</a><div class="f12">昨天 10:42</div></td>
+	<td>
+
+	127
+
+	</td>
+	<td><a href="read.php?tid=4061771&page=e&fpage=1#a" class="f10"> 2020-08-24 23:09 </a><br />by: 裤衩穿在外面</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064135.html" target="_blank" id="">[逗来乐&#12539;览图]让女人面红耳赤的秘密[9P][渡有缘游客上岸]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=545330" class="bl">逗亦斗霸</a><div class="f12"><span class="s3" title="36 分鐘前 - 2020-08-24">今天 22:44</span></div></td>
+	<td>
+
+	3
+
+	</td>
+	<td><a href="read.php?tid=4064135&page=e&fpage=1#a" class="f10"> 2020-08-24 23:08 </a><br />by: yanghaa</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063957.html" target="_blank" id="">安卓手机多开分身神器，应用想开几个开几个</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=540936" class="bl">像我一样优秀</a><div class="f12"><span class="s3" title="3 小時前 - 2020-08-24">今天 19:38</span></div></td>
+	<td>
+
+	17
+
+	</td>
+	<td><a href="read.php?tid=4063957&page=e&fpage=1#a" class="f10"> 2020-08-24 23:08 </a><br />by: 魔鬼热线</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>32</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063336.html" target="_blank" id="">范海辛： 令人不安的数字货币</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063336&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063336&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063336&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063336&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4063336&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=164266" class="bl">blackdream</a><div class="f12"><span class="s3" title="11 小時前 - 2020-08-24">今天 11:55</span></div></td>
+	<td>
+
+	135
+
+	</td>
+	<td><a href="read.php?tid=4063336&page=e&fpage=1#a" class="f10"> 2020-08-24 23:07 </a><br />by: somnus</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>52</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063561.html" target="_blank" id="">我不认为华为是一家伟大的企业</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063561&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063561&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063561&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063561&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4063561&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=71865" class="bl">公爵</a><div class="f12"><span class="s3" title="7 小時前 - 2020-08-24">今天 15:33</span></div></td>
+	<td>
+
+	124
+
+	</td>
+	<td><a href="read.php?tid=4063561&page=e&fpage=1#a" class="f10"> 2020-08-24 23:05 </a><br />by: 鲁帝</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>7</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062876.html" target="_blank" id="">[历史边角料]刘禅：五千年少有的大气政治家</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062876&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062876&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062876&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=146104" class="bl">萬人往づ</a><div class="f12"><span class="s3" title="23 小時前 - 2020-08-24">今天 00:17</span></div></td>
+	<td>
+
+	67
+
+	</td>
+	<td><a href="read.php?tid=4062876&page=e&fpage=1#a" class="f10"> 2020-08-24 23:05 </a><br />by: 十年磨一枪</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>210</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2007/7/3998402.html" target="_blank" id="">聊一聊自己女朋友一些往事[4P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=3998402&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=3998402&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=3998402&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=3998402&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=3998402&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=3998402&page=27&fpage=1' target='_blank'>27</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=542659" class="bl">莽妹儿</a><div class="f12">2020-07-06</div></td>
+	<td>
+
+	<span class="sred">680</span>
+
+	</td>
+	<td><a href="read.php?tid=3998402&page=e&fpage=1#a" class="f10"> 2020-08-24 23:03 </a><br />by: 一百零一夜</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063364.html" target="_blank" id="">[闲聊]相同的出生，不一样的人生，失散36年的她们，两人别样的人生故事！</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=545590" class="bl">潘驴何小闲</a><div class="f12"><span class="s3" title="10 小時前 - 2020-08-24">今天 12:32</span></div></td>
+	<td>
+
+	21
+
+	</td>
+	<td><a href="read.php?tid=4063364&page=e&fpage=1#a" class="f10"> 2020-08-24 23:03 </a><br />by: 武汉子不语</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>26</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063342.html" target="_blank" id="">[無極炁]《八佰》并不真实的一面，他才是每个中国人都应该知道的！</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063342&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063342&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063342&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063342&page=4&fpage=1' target='_blank'>4</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=519513" class="bl">無極炁</a><div class="f12"><span class="s3" title="11 小時前 - 2020-08-24">今天 12:04</span></div></td>
+	<td>
+
+	93
+
+	</td>
+	<td><a href="read.php?tid=4063342&page=e&fpage=1#a" class="f10"> 2020-08-24 23:03 </a><br />by: 铁游侠</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>9</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063314.html" target="_blank" id="">新员工不喝领导敬酒，遭扇耳光辱骂？银行凌晨回应！</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063314&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063314&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063314&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063314&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4063314&page=5&fpage=1' target='_blank'>5</a> <a href='read.php?tid=4063314&page=6&fpage=1' target='_blank'>6</a> <a href='read.php?tid=4063314&page=7&fpage=1' target='_blank'>7</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=552023" class="bl">爱分享爱交流</a><div class="f12"><span class="s3" title="11 小時前 - 2020-08-24">今天 11:46</span></div></td>
+	<td>
+
+	167
+
+	</td>
+	<td><a href="read.php?tid=4063314&page=e&fpage=1#a" class="f10"> 2020-08-24 23:02 </a><br />by: 一十二</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>7</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062306.html" target="_blank" id="">纳兰容若最美的8首词，说尽了一生，美到心碎[9P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062306&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062306&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062306&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=555759" class="bl">南朝一笑</a><div class="f12">昨天 15:25</div></td>
+	<td>
+
+	51
+
+	</td>
+	<td><a href="read.php?tid=4062306&page=e&fpage=1#a" class="f10"> 2020-08-24 23:02 </a><br />by: 爱在深丘</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>29</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063199.html" target="_blank" id="">MEDIUM｜ KEVIN：中国，一个集体失忆的国度</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063199&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063199&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063199&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063199&page=4&fpage=1' target='_blank'>4</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=164266" class="bl">blackdream</a><div class="f12"><span class="s3" title="13 小時前 - 2020-08-24">今天 10:18</span></div></td>
+	<td>
+
+	104
+
+	</td>
+	<td><a href="read.php?tid=4063199&page=e&fpage=1#a" class="f10"> 2020-08-24 23:02 </a><br />by: 苏州善解人衣</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>33</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4061961.html" target="_blank" id="">[真相播报] 2020 0822 布局3年，要收网了</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4061961&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4061961&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4061961&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4061961&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4061961&page=5&fpage=1' target='_blank'>5</a> <a href='read.php?tid=4061961&page=6&fpage=1' target='_blank'>6</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=556400" class="bl">zheng007</a><div class="f12">昨天 10:54</div></td>
+	<td>
+
+	159
+
+	</td>
+	<td><a href="read.php?tid=4061961&page=e&fpage=1#a" class="f10"> 2020-08-24 23:02 </a><br />by: 流氓是流氓</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>29</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062477.html" target="_blank" id="">转贴加读后感&#160; &#160;&#160; 谁扼住了华为：美日半导体霸权的三张牌</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062477&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062477&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062477&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4062477&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4062477&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=338592" class="bl">一木渡桃源</a><div class="f12">昨天 18:02</div></td>
+	<td>
+
+	110
+
+	</td>
+	<td><a href="read.php?tid=4062477&page=e&fpage=1#a" class="f10"> 2020-08-24 23:02 </a><br />by: 满汗全席</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>55</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063576.html" target="_blank" id="">[微博谈2020/8/24]保甲连坐法</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063576&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063576&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063576&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063576&page=4&fpage=1' target='_blank'>4</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=530106" class="bl">章魚哥</a><div class="f12"><span class="s3" title="7 小時前 - 2020-08-24">今天 15:49</span></div></td>
+	<td>
+
+	91
+
+	</td>
+	<td><a href="read.php?tid=4063576&page=e&fpage=1#a" class="f10"> 2020-08-24 23:01 </a><br />by: 资源帝</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063810.html" target="_blank" id="">朴树周迅，有缘无分[34P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=292739" class="bl">流利</a><div class="f12"><span class="s3" title="5 小時前 - 2020-08-24">今天 17:55</span></div></td>
+	<td>
+
+	19
+
+	</td>
+	<td><a href="read.php?tid=4063810&page=e&fpage=1#a" class="f10"> 2020-08-24 23:01 </a><br />by: 不知名老书记</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063950.html" target="_blank" id="">[风云系列] 超级富豪们的家庭出身</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=557170" class="bl">一杯长岛冰茶</a><div class="f12"><span class="s3" title="3 小時前 - 2020-08-24">今天 19:32</span></div></td>
+	<td>
+
+	14
+
+	</td>
+	<td><a href="read.php?tid=4063950&page=e&fpage=1#a" class="f10"> 2020-08-24 23:01 </a><br />by: 魚沙沙沙</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063137.html" target="_blank" id="">[朝珂0824]从散沙，到铜墙：《八佰》背后的现实意义</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=554357" class="bl">朝珂榴芳</a><div class="f12"><span class="s3" title="13 小時前 - 2020-08-24">今天 09:21</span></div></td>
+	<td>
+
+	16
+
+	</td>
+	<td><a href="read.php?tid=4063137&page=e&fpage=1#a" class="f10"> 2020-08-24 23:00 </a><br />by: 坚夫莹妇</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4060767.html" target="_blank" id="">[每日要闻] 彰化26岁夫开车吵架 直撞超市　妻惨死、3岁女重伤</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4060767&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4060767&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4060767&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4060767&page=4&fpage=1' target='_blank'>4</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=553955" class="bl">老衲阴部微痒</a><div class="f12">2020-08-22</div></td>
+	<td>
+
+	103
+
+	</td>
+	<td><a href="read.php?tid=4060767&page=e&fpage=1#a" class="f10"> 2020-08-24 22:59 </a><br />by: iwatch</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063463.html" target="_blank" id="">Google Voice保号教程</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063463&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063463&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=552016" class="bl">启明星的指引</a><div class="f12"><span class="s3" title="7 小時前 - 2020-08-24">今天 15:33</span></div></td>
+	<td>
+
+	33
+
+	</td>
+	<td><a href="read.php?tid=4063463&page=e&fpage=1#a" class="f10"> 2020-08-24 22:59 </a><br />by: 晨露初浓</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>6</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063720.html" target="_blank" id="">[博海拾贝0812]白衣渡江真英雄</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063720&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063720&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=543074" class="bl">节奏小哥</a><div class="f12"><span class="s3" title="6 小時前 - 2020-08-24">今天 16:41</span></div></td>
+	<td>
+
+	34
+
+	</td>
+	<td><a href="read.php?tid=4063720&page=e&fpage=1#a" class="f10"> 2020-08-24 22:58 </a><br />by: sph235</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063370.html" target="_blank" id="">人气第一最强女僕新人，[志恩まこ]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063370&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063370&page=2&fpage=1' target='_blank'>2</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=525199" class="bl">骑摩托的蜗牛</a><div class="f12"><span class="s3" title="10 小時前 - 2020-08-24">今天 12:42</span></div></td>
+	<td>
+
+	30
+
+	</td>
+	<td><a href="read.php?tid=4063370&page=e&fpage=1#a" class="f10"> 2020-08-24 22:56 </a><br />by: 裤衩穿在外面</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4059660.html" target="_blank" id="">[每日一畫]不如我们从头来过？</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=337120" class="bl">太行皇菊</a><div class="f12">2020-08-21</div></td>
+	<td>
+
+	13
+
+	</td>
+	<td><a href="read.php?tid=4059660&page=e&fpage=1#a" class="f10"> 2020-08-24 22:56 </a><br />by: 钏箔</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>22</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4058019.html" target="_blank" id="">[榴影分享8.20]《超能计划》《重启之极海听雷全32集》《森林恶鬼》《下流美容院》《台湾嫩模门》《贴吧草莓妹门》</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4058019&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4058019&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4058019&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4058019&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4058019&page=5&fpage=1' target='_blank'>5</a> <a href='read.php?tid=4058019&page=6&fpage=1' target='_blank'>6</a> <a href='read.php?tid=4058019&page=7&fpage=1' target='_blank'>7</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=270557" class="bl">5100</a><div class="f12">2020-08-20</div></td>
+	<td>
+
+	153
+
+	</td>
+	<td><a href="read.php?tid=4058019&page=e&fpage=1#a" class="f10"> 2020-08-24 22:56 </a><br />by: y1993</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>325</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2006/7/3985219.html" target="_blank" id="">天太热难着衣[76P]</a></h3> &nbsp;<span class=sgreen>[積分+5]</span>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=3985219&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=3985219&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=3985219&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=3985219&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=3985219&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=3985219&page=36&fpage=1' target='_blank'>36</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=552265" class="bl">闻弦识音</a><div class="f12">2020-06-27</div></td>
+	<td>
+
+	<span class="sred">911</span>
+
+	</td>
+	<td><a href="read.php?tid=3985219&page=e&fpage=1#a" class="f10"> 2020-08-24 22:56 </a><br />by: 紫樱姐</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>41</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063056.html" target="_blank" id="">[2020-08-24] (转) 湘钢人哭完，捂汗人哭；捂汗人哭完，芯浆人哭；芯浆人哭完，XX人哭[85P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063056&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063056&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063056&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4063056&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4063056&page=5&fpage=1' target='_blank'>5</a> <a href='read.php?tid=4063056&page=6&fpage=1' target='_blank'>6</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=522550" class="bl">津味杂谈</a><div class="f12"><span class="s3" title="16 小時前 - 2020-08-24">今天 06:33</span></div></td>
+	<td>
+
+	165
+
+	</td>
+	<td><a href="read.php?tid=4063056&page=e&fpage=1#a" class="f10"> 2020-08-24 22:55 </a><br />by: 有木有</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063304.html" target="_blank" id="">[皇会来了-谚语篇]俗语：“豪不过三，富不过六，穷不过九”[8P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=553735" class="bl">皇会老男人</a><div class="f12"><span class="s3" title="11 小時前 - 2020-08-24">今天 11:39</span></div></td>
+	<td>
+
+	15
+
+	</td>
+	<td><a href="read.php?tid=4063304&page=e&fpage=1#a" class="f10"> 2020-08-24 22:54 </a><br />by: 小开来也</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4061816.html" target="_blank" id="">[每日一wen0823]夜夜让老公疲惫不堪的性感新娘[76P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4061816&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4061816&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4061816&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4061816&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4061816&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=370133" class="bl">每日一wen</a><div class="f12">昨天 09:20</div></td>
+	<td>
+
+	120
+
+	</td>
+	<td><a href="read.php?tid=4061816&page=e&fpage=1#a" class="f10"> 2020-08-24 22:53 </a><br />by: 虚空遁地兽</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>10</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4062929.html" target="_blank" id="">[孕味十足] 国产孕妇美图分享！第七期 纯美图不露点 [50P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4062929&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4062929&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4062929&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4062929&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4062929&page=5&fpage=1' target='_blank'>5</a> <a href='read.php?tid=4062929&page=6&fpage=1' target='_blank'>6</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=540132" class="bl">云中雀</a><div class="f12"><span class="s3" title="21 小時前 - 2020-08-24">今天 01:27</span></div></td>
+	<td>
+
+	140
+
+	</td>
+	<td><a href="read.php?tid=4062929&page=e&fpage=1#a" class="f10"> 2020-08-24 22:53 </a><br />by: 醉金枝</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	.::
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4064084.html" target="_blank" id="">不喝敬酒被打耳光：企业领导发飙，显企业文化匮乏</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	
+
+	</td>
+	<td><a href="show.php?uid=559253" class="bl">大道之行</a><div class="f12"><span class="s3" title="1 小時前 - 2020-08-24">今天 21:21</span></div></td>
+	<td>
+
+	8
+
+	</td>
+	<td><a href="read.php?tid=4064084&page=e&fpage=1#a" class="f10"> 2020-08-24 22:53 </a><br />by: 杰力沟把你</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>7</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4060323.html" target="_blank" id="">[榴影可乐]乘风破浪的姐姐们，请独自闪耀吧</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4060323&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4060323&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4060323&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4060323&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4060323&page=5&fpage=1' target='_blank'>5</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=553314" class="bl">小阿七</a><div class="f12">2020-08-22</div></td>
+	<td>
+
+	118
+
+	</td>
+	<td><a href="read.php?tid=4060323&page=e&fpage=1#a" class="f10"> 2020-08-24 22:53 </a><br />by: wordupson</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>23</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4050909.html" target="_blank" id="">[一夜精品] 八月第八季 精品收藏 极品女神黑丝套装高跟暴力虐操高潮浪叫+可爱小妹撞见父母做爱结果发骚被老爸疯狂插小逼</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4050909&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4050909&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4050909&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4050909&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4050909&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4050909&page=11&fpage=1' target='_blank'>11</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=269587" class="bl">一夜抱妇</a><div class="f12">2020-08-15</div></td>
+	<td>
+
+	265
+
+	</td>
+	<td><a href="read.php?tid=4050909&page=e&fpage=1#a" class="f10"> 2020-08-24 22:52 </a><br />by: daishunan</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>13</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4063111.html" target="_blank" id="">无语的亲戚</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4063111&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4063111&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4063111&page=3&fpage=1' target='_blank'>3</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=554037" class="bl">wuwen</a><div class="f12"><span class="s3" title="11 小時前 - 2020-08-24">今天 11:59</span></div></td>
+	<td>
+
+	63
+
+	</td>
+	<td><a href="read.php?tid=4063111&page=e&fpage=1#a" class="f10"> 2020-08-24 22:51 </a><br />by: 篮球猪</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td>
+
+	<span class='s3'>164</span>
+
+
+	</td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	<h3><a href="htm_data/2008/7/4051153.html" target="_blank" id="">那些年收藏的粉嫩美乳[41P]</a></h3>   
+
+	&nbsp;<I class='sred'>new</I>
+
+	 [ <span style='font-size:7pt;font-family:verdana;'> <a href='read.php?tid=4051153&page=1&fpage=1' target='_blank'>1</a> <a href='read.php?tid=4051153&page=2&fpage=1' target='_blank'>2</a> <a href='read.php?tid=4051153&page=3&fpage=1' target='_blank'>3</a> <a href='read.php?tid=4051153&page=4&fpage=1' target='_blank'>4</a> <a href='read.php?tid=4051153&page=5&fpage=1' target='_blank'>5</a> .. <a href='read.php?tid=4051153&page=19&fpage=1' target='_blank'>19</a></span> ]
+
+	</td>
+	<td><a href="show.php?uid=359885" class="bl">夕阳花</a><div class="f12">2020-08-15</div></td>
+	<td>
+
+	472
+
+	</td>
+	<td><a href="read.php?tid=4051153&page=e&fpage=1#a" class="f10"> 2020-08-24 22:51 </a><br />by: 美哒哒</td>
+	</tr>
+
+
+	<tr><td style="height:8px"></td>
+	</tr></tbody>
+</table></div>
+
+<table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr><td align="left"><div class="pages"><a href="javascript:#" class="gray">＜</a><a href="javascript:#" class="gray">上一頁</a><a><U>1</U></a><a href="thread0806.php?fid=7&amp;search=&amp;page=2">2</a><a href="thread0806.php?fid=7&amp;search=&amp;page=3">3</a><a href="thread0806.php?fid=7&amp;search=&amp;page=4">4</a><a class='w70'><input type="text" style="width:50px;" value="1/267" onfocus="this.value='';" onblur="this.value='1/267'" onkeydown="javascript: if(event.keyCode==13){ location='thread0806.php?fid=7&amp;search=&amp;page='+this.value;return false;}"></a><a href="thread0806.php?fid=7&amp;search=&amp;page=2">下一頁</a><a href="thread0806.php?fid=7&amp;search=&amp;page=267" id="last">＞</a></div></td>
+	<form name="jump" method="post">
+		<td align="right"><a href="profile.php?action=forumright&fid=7" title="查看您在本版塊的權限">版塊權限查看</a>&nbsp;
+		<select onchange="window.location='thread0806.php?fid='+this.options[this.selectedIndex].value"><option value="" selected>快速跳至</option><option value='1'>>> BT電影下載</option><option value='2'> &nbsp;&nbsp; |- 亞洲無碼原創區</option><option value='15'> &nbsp;&nbsp; |- 亞洲有碼原創區</option><option value='4'> &nbsp;&nbsp; |- 歐美原創區</option><option value='5'> &nbsp;&nbsp; |- 動漫原創區</option><option value='25'> &nbsp;&nbsp; |- 國產原創區</option><option value='26'> &nbsp;&nbsp; |- 中字原創區</option><option value='27'> &nbsp;&nbsp; |- 轉帖交流區</option><option value='21'> &nbsp;&nbsp; |- HTTP下載區</option><option value='22'> &nbsp;&nbsp; |- 在綫成人影院</option><option value='10'> &nbsp;&nbsp; |- 草榴影視庫</option><option value='11'> &nbsp;&nbsp;&nbsp;&nbsp; |- 亞洲區</option><option value='12'> &nbsp;&nbsp;&nbsp;&nbsp; |- 歐美區</option><option value='13'> &nbsp;&nbsp;&nbsp;&nbsp; |- 動漫區</option><option value='14'> &nbsp;&nbsp;&nbsp;&nbsp; |- 圖片區</option><option value='23'> &nbsp;&nbsp;&nbsp;&nbsp; |- 博彩區</option><option value='6'>>> 草榴休閑區</option><option value='7'> &nbsp;&nbsp; |- 技術討論區</option><option value='8'> &nbsp;&nbsp; |- 新時代的我們</option><option value='16'> &nbsp;&nbsp; |- 達蓋爾的旗幟</option><option value='20'> &nbsp;&nbsp; |- 成人文學交流區</option><option value='9'> &nbsp;&nbsp; |- 草榴資訊</option>		
+		</select></td>
+	</form>
+	</tr>
+	<tr valign="top">
+		<form action="thread0806.php" method="get">
+		<td style="vertical-align:middle;">
+		<input type="hidden" name="fid" value="7"/>
+		<select name="search">
+			<option value="">所有主題</option>
+			<option value="digest">本版精華區</option>
+			<option value="1">1天內的主題</option>
+			<option value="2">2天內的主題</option>
+			<option value="7">1星期內的主題</option>
+			<option value="30">1個月內的主題</option>
+			<option value="60">2個月內的主題</option>
+			<option value="90">3個月內的主題</option>
+			<option value="180">6個月內的主題</option>
+			<option value="365">1年內的主題</option>
+		</select>
+
+		<input class="btn" type="button" value="提 交" onclick="this.form.submit();">
+		</td>
+	</form>
+	</tr>
+</table>
+
+<div style='margin:0px 15px;'></div>
+</div>
+<center class="gray">
+<a href='mobile.php?ismobile=no'>電腦版</a> <a href='mobile.php?ismobile=yes'>手機版</a> <a href='read.php?tid=1648542'>客戶端</a><br>
+用時 0.01(s) x2, 08-24 23:21  <br>在線 63981<br>
+</center><br />
+</body></html>
+
+.
