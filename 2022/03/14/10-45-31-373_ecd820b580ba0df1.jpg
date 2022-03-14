@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>提示信息 -  98堂[原色花堂] -  Powered by Discuz!</title>
+<meta name="keywords" content="" />
+<meta name="description" content=",98堂[原色花堂]" />
+<meta name="generator" content="Discuz! X3.4" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2021 Tencent Cloud." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?dhU" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_forumdisplay.css?dhU" /><link rel="stylesheet" id="css_extstyle" type="text/css" href="./template/default/style/t1/style.css" /><script type="1889c273723514cc52912d08-text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'dhU', charset = 'utf-8', discuz_uid = '0', cookiepre = 'cPNj_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '3|积分|,5|金钱|,7|色币|,8|评分|', defaultstyle = './template/default/style/t1', REPORTURL = 'aHR0cHM6Ly93d3cuc2VodWF0YW5nLm5ldC9mb3J1bS5waHA/bW9kPWZvcnVtZGlzcGxheSZvcmRlcmJ5PWRhdGVsaW5lJmZpZD0xMTcvZmF2aWNvbi5pY28=', SITEURL = '/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?dhU" type="1889c273723514cc52912d08-text/javascript"></script>
+<script src="static/libs/fingerprintjs/fp.min.js" type="1889c273723514cc52912d08-text/javascript" onload="fingerprint()"></script>
+<meta name="application-name" content="98堂[原色花堂]" />
+<meta name="msapplication-tooltip" content="98堂[原色花堂]" />
+<meta name="msapplication-task" content="name=新帖瀑布流;action-uri=/portal.php;icon-uri=static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=/forum.php;icon-uri=static/image/common/bbs.ico" />
+<link rel="archives" title="98堂[原色花堂]" href="/archiver/" />
+<script src="static/js/forum.js?dhU" type="1889c273723514cc52912d08-text/javascript"></script>
+</head>
+<body id="nv_forum" class="pg_forumdisplay" onkeydown="if (!window.__cfRLUnblockHandlers) return false; if(event.keyCode==27) return false;" data-cf-modified-1889c273723514cc52912d08-="">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;" onclick="if (!window.__cfRLUnblockHandlers) return false; setHomepage('/');" data-cf-modified-1889c273723514cc52912d08-="">设为首页</a><a href="/" onclick="if (!window.__cfRLUnblockHandlers) return false; addFavorite(this.href, '98堂[原色花堂]');return false;" data-cf-modified-1889c273723514cc52912d08-="">收藏本站</a><script src="static/js/language.js" type="1889c273723514cc52912d08-text/javascript"></script>
+</div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleBlind(this)" title="开启辅助访问" class="switchblind" data-cf-modified-1889c273723514cc52912d08-=""></a>
+<a href="javascript:;" id="switchwidth" onclick="if (!window.__cfRLUnblockHandlers) return false; widthauto(this)" title="切换到宽版" class="switchwidth" data-cf-modified-1889c273723514cc52912d08-="">切换到宽版</a>
+</div>
+</div>
+</div>
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="if (!window.__cfRLUnblockHandlers) return false; lsSubmit()" data-cf-modified-1889c273723514cc52912d08-=""><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">立即注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="98堂[原色花堂]"><img src="static/image/common/logo.png" alt="98堂[原色花堂]" border="0" /></a></h2><script src="static/js/logging.js?dhU" type="1889c273723514cc52912d08-text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="/member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="if (!window.__cfRLUnblockHandlers) return false; return lsSubmit();" data-cf-modified-1889c273723514cc52912d08-="">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="1889c273723514cc52912d08-text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" checked="checked" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="if (!window.__cfRLUnblockHandlers) return false; showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')" data-cf-modified-1889c273723514cc52912d08-="">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">立即注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="formhash" value="a857594d" />
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+</div>
+</form>
+</div>
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="if (!window.__cfRLUnblockHandlers) return false; delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})" data-cf-modified-1889c273723514cc52912d08-="">快捷导航</a>
+<ul><li class="a" id="mn_forum"><a href="forum.php" hidefocus="true" title="BBS">论坛<span>BBS</span></a></li><li id="mn_N743b"><a href="book.html" hidefocus="true">小说</a></li><li id="mn_portal"><a href="portal.php" hidefocus="true" title="Portal">新帖瀑布流<span>Portal</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="if (!window.__cfRLUnblockHandlers) return false; searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank" data-cf-modified-1889c273723514cc52912d08-="">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="a857594d" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="forum::forumdisplay" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="if (!window.__cfRLUnblockHandlers) return false; showMenu(this.id)" hidefocus="true" data-cf-modified-1889c273723514cc52912d08-="">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="1889c273723514cc52912d08-text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的版块不存在</p>
+<script type="1889c273723514cc52912d08-text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 98堂[原色花堂] 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div> </div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+广告联系：<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5b283e332e3a2f3a353c1b3c363a323775383436">[email&#160;protected]</a><span class="pipe">|</span>
+<a href="forum.php?mod=misc&action=showdarkroom">小黑屋</a><span class="pipe">|</span><strong><a href="https://www.sehuatang.net" target="_blank">98堂[原色花堂]</a></strong>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="1889c273723514cc52912d08-text/javascript" src="https://s4.cnzz.com/z_stat.php?id=1280511935&web_id=1280511935"></script></p>
+<p class="xs0">
+GMT+8, 2022-03-14 18:45<span id="debuginfo">
+, Processed in 0.010086 second(s), 0 queries
+, Redis On.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.4</em></p>
+<p class="xs0">Copyright &copy; 2001-2021, Tencent Cloud.</p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1647254732" type="1889c273723514cc52912d08-text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="if (!window.__cfRLUnblockHandlers) return false; window.scrollTo('0','0')" class="scrolltopa" data-cf-modified-1889c273723514cc52912d08-=""><b>返回顶部</b></a></span>
+</div>
+<script type="1889c273723514cc52912d08-text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();randomBg('js-randomBg');</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1889c273723514cc52912d08-|49" defer=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6ebc6b943b757541","version":"2021.12.0","r":1,"token":"b038fecbf0124a29b7af2a9091ef600e","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
